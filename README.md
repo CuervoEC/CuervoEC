@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CuervoEC
 - 👀 I’m interested in learning Python, Machine Learning, Data Science and some Web Development 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & JavaScript
 - 💞️ I’m looking to collaborate on Python projects and repositories
 - 📫 How to reach me: Please, send a mail or message for any suggestion or help that you or I will need.
 
